@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3621073-92cc-4344-89f5-6fa20a544efe" name="Changes" comment="" />
+    <list default="true" id="f3621073-92cc-4344-89f5-6fa20a544efe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ValidationError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/signInController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/signUpController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware /registrationValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/repositoryCheckEmail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/repositoryCheckUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/repositoryCreateUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/repositoryUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/serviceAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/serviceRegistraion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/authController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/authRoutes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -28,6 +51,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/capy/capy/capybara&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -55,7 +80,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731859301218</updated>
-      <workItem from="1731859302383" duration="2667000" />
+      <workItem from="1731859302383" duration="5752000" />
+      <workItem from="1731865678852" duration="347000" />
+      <workItem from="1731881418021" duration="6848000" />
+      <workItem from="1731889781119" duration="153000" />
+      <workItem from="1731935801713" duration="356000" />
+      <workItem from="1731937125477" duration="5285000" />
+      <workItem from="1731949307973" duration="466000" />
+      <workItem from="1731965262357" duration="2770000" />
+      <workItem from="1732008021949" duration="5444000" />
     </task>
     <servers />
   </component>
