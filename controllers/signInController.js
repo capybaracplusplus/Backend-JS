@@ -5,6 +5,8 @@ const signInController = async (req, res) => {
         console.log("Attempting to log in");
         const {email, password} = req.body;
         const {accessToken, refreshToken} = await loginService(email, password);
+        // хранить accessToken и refreshToken в redis db
+        // хранить секретный ключ для генерации токенов в докер энвайромент
         return res.status(200).json({
             "accessToken": accessToken, "refreshToken": refreshToken,
         });
